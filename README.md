@@ -2,4 +2,4 @@
 My portfolio of work.
 
  * [Resume](Resume.pdf)
- * [thesis2.pdf]
+ * [https://github.com/nitanagdeote/portfolio/blob/master/thesis2.pdf](thesis.pdf)
